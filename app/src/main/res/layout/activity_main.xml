@@ -35,7 +35,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tues 13 OCT"
+        android:text="Tues 13 NOV"
         android:textColor="#4D09C6"
         android:textSize="20dp"
         android:layout_marginTop="5dp"
